@@ -95,12 +95,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-.test{
-    font-family: 'Roboto Slab', serif;
+.header{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: extra-bold;
 }
 
 
-
+body { padding-bottom: 70px; }
 
 
 
