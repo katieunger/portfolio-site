@@ -101,9 +101,11 @@ textarea {
 }
 
 
-body { padding-bottom: 70px; }
 
-
+.navbar-inverse {
+    background-color: #513743;
+    
+}
 
 
 
